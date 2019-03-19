@@ -1,4 +1,4 @@
-package com.app.splr.SolrSpringBoot;
+package com.solr.app.SolrSpringBoot;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
